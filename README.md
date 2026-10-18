@@ -84,7 +84,3 @@ The resulting model files are written to `processing/data/<username>.pt` and can
 ## Data and Privacy
 
 Keystroke timing data is biometric-like behavioral information. Use this project only with informed user consent, protect collected CSV and model files, and avoid treating the current implementation as production-grade authentication. The application currently stores session state in process memory and is intended for local or development use.
-
-## License
-
-No license has been specified for this repository.
